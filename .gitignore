@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+best.pt
+car_plate_data.db
+car_plate_data.txt
+
+.DS_Store
+.vscode/
+.idea/
+*.log
